@@ -1,7 +1,7 @@
 gmpc-shufpl-plugin
 ==================
 
-Plugin for GMPC. Can shuffle your play queue by track and by album. 
+Plugin for GMPC. Shuffles your current play-queue by track and by album. 
 Based on gmpc-playlistsort.
 
 
