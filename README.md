@@ -16,7 +16,7 @@ you (as I do) have to follow this very strange steps:
 3. Do all './configure', 'make' and 'make install' as usual.
 4. cd into directory, where 'make install' put your compiled playlistsortplugin.so and playlistsortplugin.la
 (For me it was 'cd /usr/local/lib/gmpc/plugins/')
-5. Perform 'mv playlistsortplugin.la shufpl.la' and 'playlistsortplugin.so shufpl.so'.
+5. Perform 'mv playlistsortplugin.la shufpl.la' and 'mv playlistsortplugin.so shufpl.so'.
 
 
 P.S.
